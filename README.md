@@ -25,4 +25,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0570-managers-with-at-least-5-direct-reports) |
+## String
+|  |
+| ------- |
+| [1304-longest-happy-string](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1304-longest-happy-string) |
+## Greedy
+|  |
+| ------- |
+| [1304-longest-happy-string](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1304-longest-happy-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1304-longest-happy-string](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1304-longest-happy-string) |
 <!---LeetCode Topics End-->
