@@ -7,7 +7,7 @@ public:
         //if flag is true
         //need to add a new character 
         if(flag){
-            ans+="a";
+            ans.push_back('a');
             if(ans[index]==target[index]){
                 answer.push_back(ans);
                 solve(ans, target,index+1,flag,answer);
