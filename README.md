@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1304-longest-happy-string](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1304-longest-happy-string) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Greedy
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 <!---LeetCode Topics End-->
