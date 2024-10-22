@@ -18,7 +18,7 @@ class Solution {
             }
         } else {
             // Create new string with incremented character
-            ans = ans.substring(0, index) + (char)(ans.charAt(index) + 1) + ans.substring(index + 1);
+            ans = ans.substring(0, index) + (char)(ans.charAt(index) + 1);
             
             if (ans.charAt(index) == target.charAt(index)) {
                 answer.add(ans);
