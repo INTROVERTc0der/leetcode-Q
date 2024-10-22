@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void solve(string ans, string target , int index , bool flag , vector<string>& answer){
+    void solve(string ans, string& target , int index , bool flag , vector<string>& answer){
         //base case
         if(ans.size()==target.size() && ans[ans.size()-1]==target[target.size()-1])return ;
 
