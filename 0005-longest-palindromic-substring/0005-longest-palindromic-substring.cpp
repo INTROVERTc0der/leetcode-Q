@@ -1,33 +1,32 @@
 class Solution {
 public:
 
-string centerExpansion(const string& str, int left, int right) {
-    while (left >= 0 && right < str.size() && str[left] == str[right]) {
+string centerexpansion(string& str,int left ,int right){
+
+    while( left>=0 && right<str.size() && str[left]==str[right]){
         left--;
         right++;
     }
-    // Substring from (left+1) to (right-1), inclusive
     return str.substr(left + 1, right - left - 1);
 }
+string solve(string& str){
+    string result="";
+    for(int i=0;i<str.size();i++){
+        //even call
+        string result1=centerexpansion(str, i ,i);
+        //odd call
+        string result2=centerexpansion(str, i, i+1);
 
-string solve(string& str) {
-    string result = "";
-    for (int i = 0; i < str.size(); i++) {
-        // Odd-length palindrome
-        string result1 = centerExpansion(str, i, i);
-        // Even-length palindrome
-        string result2 = centerExpansion(str, i, i + 1);
-
-        // Update result if a longer palindrome is found
-        if (result1.size() > result.size()) {
-            result = result1;
+        if(result1.size()>result.size()){
+            result=result1;
         }
-        if (result2.size() > result.size()) {
-            result = result2;
+        if (result2.size()>result.size()){
+            result=result2;
         }
     }
     return result;
 }
+
 // this soln can be done in n2 rather than n3 as done below using DP 
 
 
