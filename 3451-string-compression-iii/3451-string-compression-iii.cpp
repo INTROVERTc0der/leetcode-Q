@@ -1,35 +1,23 @@
 class Solution {
 public:
     string compressedString(string word) {
-        string comp="";
-        int i=1;
-        char last=word[0];
-        int count=1;
-        while(i<word.size()){
-            if(last==word[i] && count<8){
-                count++;
-            }
-            else if(last==word[i] && count==8){
-                count++;
-                comp+=to_string(count);
-                comp+=last;
-                count=0;
-            }
-            else if(last!=word[i]){
-                if(count>0){
-                    comp+=to_string(count);
-                    comp+=last;
-                }
-                count=1;
-                last=word[i];
-            }
+        std::string comp;
+    int n = word.length();
+    
+    for (int i = 0; i < n;) {
+        char current_char = word[i];
+        int count = 0;
+        
+        // Count up to 9 consecutive occurrences of the same character
+        while (i < n && word[i] == current_char && count < 9) {
+            count++;
             i++;
         }
-        //last one to add
-                if(count>0){
-                    comp+=to_string(count);
-                    comp+=last;
-                }
-        return comp;
+        
+        // Append count and character to the compressed string
+        comp += std::to_string(count) + current_char;
+    }
+    
+    return comp;
     }
 };
