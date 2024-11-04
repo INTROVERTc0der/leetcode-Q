@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0005-longest-palindromic-substring) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1304-longest-happy-string) |
+| [3451-string-compression-iii](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/3451-string-compression-iii) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Greedy
