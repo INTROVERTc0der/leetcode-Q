@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0015-3sum) |
 | [1256-rank-transform-of-an-array](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/2554-minimum-total-distance-traveled) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0015-3sum) |
 | [1256-rank-transform-of-an-array](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1256-rank-transform-of-an-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/2554-minimum-total-distance-traveled) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0015-3sum) |
 ## Depth-First Search
 |  |
 | ------- |
