@@ -91,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
