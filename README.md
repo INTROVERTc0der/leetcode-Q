@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0015-3sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1256-rank-transform-of-an-array) |
+| [1503-reducing-dishes](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1503-reducing-dishes) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2554-minimum-total-distance-traveled](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/2554-minimum-total-distance-traveled) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0015-3sum) |
 | [1256-rank-transform-of-an-array](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1256-rank-transform-of-an-array) |
+| [1503-reducing-dishes](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1503-reducing-dishes) |
 | [2554-minimum-total-distance-traveled](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/2554-minimum-total-distance-traveled) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Database
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1304-longest-happy-string](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1304-longest-happy-string) |
+| [1503-reducing-dishes](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1503-reducing-dishes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0005-longest-palindromic-substring) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1503-reducing-dishes](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1503-reducing-dishes) |
 | [2554-minimum-total-distance-traveled](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/2554-minimum-total-distance-traveled) |
 ## Two Pointers
 |  |
