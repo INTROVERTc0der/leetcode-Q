@@ -22,8 +22,8 @@ public:
 
 
     int solveT(vector<int>&sat,int n){
-        vector<vector<int>>dp(n+1,vector<int>(n+2,0));
-        vector<int> next(n+1,0);
+        //vector<vector<int>>dp(n+1,vector<int>(n+2,0));
+        vector<int> next(n+2,0);
         vector<int> curr(n+1,0);
         for(int i=n-1;i>=0;i--){
             for(int time=n;time>=1;time--){
@@ -34,7 +34,7 @@ public:
             }
             next=curr;
         }
-        return curr[0];
+        return next[1];
     }
     int solveS(vector<int>&sat,int n){
         vector<vector<int>>dp(n+1,vector<int>(n+2,0));
@@ -64,9 +64,9 @@ public:
 
 
         // //using tabualtion
-         //return solveT(satisfaction,n);
+         return solveT(satisfaction,n);
 
-         return solveS(satisfaction,n);
+         //return solveS(satisfaction,n);
 
 
     }
