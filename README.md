@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0196-delete-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0585-investments-in-2016](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0585-investments-in-2016) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1462-list-the-products-ordered-in-a-period) |
 ## String
 |  |
