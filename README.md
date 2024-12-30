@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0015-3sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0733-flood-fill](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0733-flood-fill) |
 | [1256-rank-transform-of-an-array](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1256-rank-transform-of-an-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1503-reducing-dishes](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1503-reducing-dishes) |
 | [2554-minimum-total-distance-traveled](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/2554-minimum-total-distance-traveled) |
