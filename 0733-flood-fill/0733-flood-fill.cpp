@@ -1,27 +1,23 @@
 class Solution {
 public:
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
-        queue<pair<int,int>> pq;
-        //priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq;
-        pq.push({sr,sc});
+        queue<pair<int,int>>q;
+        q.push({sr,sc});
         int target=image[sr][sc];
-        vector<vector<bool>> visited(image.size(), vector<bool>(image[0].size(), false));
-        visited[sr][sc]=true;
-        while(!pq.empty()){
-            auto top=pq.front();
-            pq.pop();
-            int row=top.first;
-            int col=top.second;
-            int dx[]={0,-1,0,+1};
-            int dy[]={-1,0,+1,0};
-            image[row][col]=color;
+        vector<vector<int>>visited(image.size(),vector<int>(image[0].size(),0));
+        visited[sr][sc]=1;
+        while(!q.empty()){
+            auto[tr,tc] = q.front();
+            q.pop();
+            vector<int> x={0,1,0,-1};
+            vector<int> y={1,0,-1,0};
+            image[tr][tc]=color;
             for(int i=0;i<4;i++){
-                int newx=row+dx[i];
-                int newy=col+dy[i];
-                
-                if(newx<=image.size()-1 && newy<=image[0].size()-1 && newx>=0&& newy>=0 && image[newx][newy]==target && visited[newx][newy]==false){
-                    visited[newx][newy]=true;
-                    pq.push({newx,newy});
+                int newx = tr + x[i];
+                int newy = tc + y[i];
+                if(newx>=0 && newx<image.size() && newy>=0 && newy<image[0].size() && image[newx][newy]==target && visited[newx][newy]==0){
+                    visited[newx][newy]=1;
+                    q.push({newx,newy});
                 }
             }
         }
