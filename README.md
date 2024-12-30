@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1503-reducing-dishes](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1503-reducing-dishes) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0141-linked-list-cycle) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
