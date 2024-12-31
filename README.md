@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0733-flood-fill](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1036-rotting-oranges) |
 | [1256-rank-transform-of-an-array](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1256-rank-transform-of-an-array) |
 | [1503-reducing-dishes](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1503-reducing-dishes) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1036-rotting-oranges) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1036-rotting-oranges) |
 ## Linked List
 |  |
 | ------- |
