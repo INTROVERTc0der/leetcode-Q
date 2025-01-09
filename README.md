@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0322-coin-change) |
+| [0475-heaters](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0475-heaters) |
 | [0733-flood-fill](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1036-rotting-oranges) |
 | [1256-rank-transform-of-an-array](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1256-rank-transform-of-an-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0015-3sum) |
+| [0475-heaters](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0475-heaters) |
 | [1256-rank-transform-of-an-array](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1256-rank-transform-of-an-array) |
 | [1503-reducing-dishes](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/1503-reducing-dishes) |
 | [2554-minimum-total-distance-traveled](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/2554-minimum-total-distance-traveled) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0141-linked-list-cycle) |
+| [0475-heaters](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0475-heaters) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0475-heaters](https://github.com/INTROVERTc0der/leetcode-Q/tree/master/0475-heaters) |
 <!---LeetCode Topics End-->
